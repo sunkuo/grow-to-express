@@ -1,0 +1,25 @@
+{
+  "name": "my-express",
+  "version": "0.1.0",
+  "description": "Explanation of Express working principle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunkuo/my-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "sunkuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunkuo/my-express/issues"
+  },
+  "homepage": "https://github.com/sunkuo/my-express#readme",
+  "dependencies": {
+    "merge-descriptors": "^1.0.1"
+  }
+}

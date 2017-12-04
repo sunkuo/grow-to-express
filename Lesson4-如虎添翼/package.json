@@ -1,0 +1,35 @@
+{
+  "name": "my-express",
+  "version": "0.1.0",
+  "description": "Explanation of Express working principle",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sunkuo/my-express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "sunkuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunkuo/my-express/issues"
+  },
+  "homepage": "https://github.com/sunkuo/my-express#readme",
+  "dependencies": {
+    "array-flatten": "^2.1.1",
+    "merge-descriptors": "^1.0.1",
+    "methods": "^1.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
