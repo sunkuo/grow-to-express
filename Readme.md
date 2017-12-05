@@ -27,4 +27,4 @@
 ### 文章组织
 会分成系列文章讲解，每个文章都基于上一个文章实现一个加强版的Web框架。每个文章会给出框架源码、框架说明，框架使用样例。话不多少，开始第一个Web框架的实现吧！
 
-渐进式Express源码学习1-万物归宗
+[渐进式Express源码学习1-万物归宗](https://github.com/sunkuo/grow-to-express/tree/master/Lesson1-%E4%B8%87%E7%89%A9%E5%BD%92%E5%AE%97)

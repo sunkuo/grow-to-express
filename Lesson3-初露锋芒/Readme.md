@@ -2,6 +2,8 @@
 
 这是[**渐进式Express源码学习 | 小白也能懂源码**](https://github.com/sunkuo/grow-to-express)系列文章的第三篇。
 
+请结合该节代码阅读[Lesson3-初露锋芒](https://github.com/sunkuo/grow-to-express/tree/master/Lesson3-%E5%88%9D%E9%9C%B2%E9%94%8B%E8%8A%92)
+
 ### 目标特性和目标用法
 
 这篇文章我们在第二篇文章的基础上，实现一个稍微加强版的Express，功能包括

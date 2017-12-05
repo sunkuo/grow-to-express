@@ -2,6 +2,8 @@
 
 这是[**渐进式Express源码学习 | 小白也能懂源码**](https://github.com/sunkuo/grow-to-express)系列文章的第一篇。
 
+请结合该节代码阅读[Lesson1-万物归宗](https://github.com/sunkuo/grow-to-express/tree/master/Lesson1-%E4%B8%87%E7%89%A9%E5%BD%92%E5%AE%97)
+
 ### 预期特性和预期用法
 这篇文章我们实现一个最最基础的Web框架，功能包括
 
